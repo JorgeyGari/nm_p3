@@ -1,4 +1,5 @@
-%                  TEAM 4
+% USAGE OF THIS CODE IS STRICTLY FOR REFERENCE ONLY, DO NOT COPY
+% CODED BY:
 % Andrea Cervantes Bonet   - 100.429.950
 % Sandra de la Chica Liñán - 100.452.190
 % Jorge Lázaro Ruiz        - 100.452.172
